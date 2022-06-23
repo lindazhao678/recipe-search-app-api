@@ -13,6 +13,8 @@ Recipe Search App is a react web application for user to search and view the foo
 - Use React Router DOM to implement dynamic routing.
 - Design wireframe and prototype with Figma.
 
+## About API: 
+
 This is the backend of the Recipe Search App. You can access the data by adding the query parameter at the end of the url.
 
 For example: https://recipe-search-app-api.herokuapp.com/?q=bread
